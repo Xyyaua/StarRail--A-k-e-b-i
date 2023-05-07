@@ -2,7 +2,7 @@ name: Publish
 
 on:
    push:
-    branches: [ Star ]
+    branches: [ main ]
 
 env:
   SOLUTION_FILE_PATH: ./akebi-gc.sln
