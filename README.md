@@ -1,6 +1,8 @@
 # Akebi-SC-unofficial-
-练手自用, 基于akebi3.3更新  
-这是一个fork, 这不是正式发布
+练手自用, 基于akebi3.3更新
+
+*这是一个fork, 不是正式发布*  
+*This is a fork, it's not officially released*
 
 [原链接](https://github.com/NctimeAza/StarRail-Cheat/)
 
